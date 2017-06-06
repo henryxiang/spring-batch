@@ -1,1 +1,0 @@
-select * from pps_ucd_department;
